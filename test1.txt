@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 1C0F-166C
+
+ Directory of C:\Users\tramr\OneDrive\Desktop\MyProject
+
+15/05/2020  02:35 AM    <DIR>          .
+15/05/2020  02:35 AM    <DIR>          ..
+15/05/2020  02:35 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  61,840,658,432 bytes free
